@@ -1,24 +1,13 @@
-# express-customer-api
-customer api crud with express
+# Customer API
 
-### To install dependencies ###
-```
-npm install
-```
+## Description
+This is a simple API for managing customers. It is written in Nodejs and uses Express as the web framework, and MongoDB as the database.
 
-### Run ###
-```
-npm run start
-```
-### for Development ###
-```
-npm run dev
-```
+## Installation
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the server
+4. Run `npm test` to run the tests
 
-### Endpoints
-```
-GET:  user/v1
-POST: user/v1
-UPDATE: user/v1/:id
-DELETE: user/v1/:id 
-```
+## Usage
+The API is available at ` and MongoDB as the database.
